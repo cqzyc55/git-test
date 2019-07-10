@@ -9,9 +9,10 @@ public class FirstClass {
         System.out.println("hello git project");
         System.out.println("hello git project");
         System.out.println("hello git project");
+        //hello
     }
 
     public int test(){
-        return 1;
+        return 1+2;
     }
 }
